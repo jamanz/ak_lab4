@@ -1,0 +1,3 @@
+/home/kojan/calculator/CMakeFiles/rebuild_cache.dir
+/home/kojan/calculator/CMakeFiles/calculator_cmake.dir
+/home/kojan/calculator/CMakeFiles/edit_cache.dir
